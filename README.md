@@ -2,7 +2,7 @@
 I'm a former mathematics and computer science student.
 When it comes to computer science, I'm intrested in computer graphics (2D and 3D), low level programing, application development, MacOS compatibility, and high performance.
 
-I've privated most of my repos, though left a few old projects so the people they're relavent to aren't locked out of them. Working on several portfolio projects that will show up here soon enough, but they are not ready yet. 
+I've privated most of my repos, though left a few old projects so the people they're relavent to aren't locked out of them. Please don't judge my old code lol. Working on several portfolio projects that will show up here soon enough, but they are not ready yet. 
 
 
 
